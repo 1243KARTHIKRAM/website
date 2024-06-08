@@ -1,0 +1,22 @@
+.nav-links{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 30px;
+}
+.navbar
+{
+    background-color: rgba(102, 51, 153, 0.244);
+}
+button{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.form{
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.class2{
+    line-height: 20px;
+}
